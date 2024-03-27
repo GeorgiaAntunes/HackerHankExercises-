@@ -8,3 +8,5 @@ function simpleArraySum(ar) {
 
 console.log(simpleArraySum([1,2,3]));
 
+// Link hackerrank: https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
+
