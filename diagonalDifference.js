@@ -18,3 +18,5 @@ console.log(diagonalDifference(
 
 //The left-to-right diagonal  1 + 5 + 9 = 15. The right to left diagonal 3 + 5 + 9 = 17. 
 //Their absolute difference is |15 - 17| = 2 
+
+//Link hackerrank: https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true

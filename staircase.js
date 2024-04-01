@@ -20,3 +20,4 @@ function staircase(n){
 
 staircase(5);
 
+// Link hackerrank: https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true
